@@ -15,7 +15,9 @@ if number is odd output will be odd, if number is even output will be even
 
     public static void main(String[] args) {
         int a=5;
+        int b=6;
         System.out.println(oddEven(a));
+        System.out.println(oddEven(b));
     }
 
 }

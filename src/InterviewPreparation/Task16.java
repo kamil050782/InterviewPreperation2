@@ -38,6 +38,6 @@ public class Task16 {
 
     public static void main(String[] args) {
         withoutDivider(5,2);
-        reminder(4,2);
+        reminder(100,5);
     }
 }
