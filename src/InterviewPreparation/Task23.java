@@ -4,7 +4,7 @@ public class Task23 {
     /* int num=-1234556;
     -6554321
     */
-    public static String reverseNumber(int num) {
+    public static int reverseNumber(int num) {
         String reserve = String.valueOf(num);//String reserve=""+num;
         String result = "";
 
@@ -17,11 +17,9 @@ public class Task23 {
         } else {
             for (int i = reserve.length() - 1; i >= 0; i--) {
                 result += reserve.charAt(i);
-
             }
-
         }
-        return result;
+        return Integer.parseInt(result);
     }
 
     public static void main(String[] args) {
