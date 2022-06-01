@@ -19,9 +19,7 @@ public class Task12 {
                 list.add(arr[i]);
             }else {
                 count++;
-
             }
-
         }
         for (int i = 0; i <count ; i++) {
             list.add(0);
