@@ -10,7 +10,7 @@ public class Task17 {
 
     */
 
-    public   String replace(int a,int b){
+    public  static String replace(int a,int b){
        a=a+b;//10+20
        b=a-b;//30-20
        a=a-b;//30-10
@@ -22,7 +22,8 @@ public class Task17 {
         int  a = 10;
         int  b  = 20;
 
-        System.out.println(new Task17().replace(a,b));
+        System.out.println(replace(a,b));
+
     }
 
 

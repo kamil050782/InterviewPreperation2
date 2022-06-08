@@ -56,5 +56,6 @@ public class Task30 {
 
     public static void main(String[] args) {
         System.out.println(unique(5));
+        System.out.println(unique1(5));
     }
 }
