@@ -9,7 +9,7 @@ public class Task47 {
     Given alphanumeric String, we need to split the string into substrings of consecutive
     letters or numbers, sort the individual string and append them back together
     Input:  "D5C01GCCCA098911"
-    OutPut: "CD015ACCCG011899"
+    OutPut: "D5C01ACCCG011899"
 
      */
 
@@ -45,7 +45,7 @@ public class Task47 {
         return (allSorted+Arrays.toString(letter)+Arrays.toString(number)).replace("[","").replace("]","").replace(", ",""); //CD015ACCCG011899
     }
     public static void main(String[] args) {
-        String str="D5C01GCCCA098911MV";
+        String str="D5C01GCCCA098911";
         System.out.println(sortLettersAndNumbers(str));
     }
 
