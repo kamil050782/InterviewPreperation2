@@ -12,48 +12,41 @@ public class Task47 {
     OutPut: "CD015ACCCG011899"
 
      */
-    public static String sort(String str){
-        String[]arr=str.split("");
-        Arrays.sort(arr);
-        String result="";
-        for (String each : arr) {
-            result+=each;
-        }
-        return result;
-    }
-    public static String splitAndSort(String str){
-        String temp="";
-        List<String>list=new LinkedList<>();
-        String result="";
-        for (int i = 0; i < str.length()-1; i++) {
-            char ch=str.charAt(i);
-            char nextCh=str.charAt(i+1);
-            if((Character.isLetter(ch) && Character.isLetter(nextCh)) || (Character.isDigit(ch) && Character.isDigit(nextCh))){
-                temp+=ch;
-            } else if ((Character.isLetter(ch) && Character.isDigit(nextCh)) || (Character.isDigit(ch) && Character.isLetter(nextCh))) {
-                temp+=ch;
-                list.add(temp);
-                temp="";
-            } else if (!Character.isDigit(ch) && !Character.isLetter(ch)) {
-             return "String should contains only numbers and letters" ;
+
+    public static String sortLettersAndNumbers(String str) {
+
+        String digits = "";
+        String letters="";
+        String allSorted = "";
+
+        for (int i = 0; i < str.length(); i++) {
+
+            if (Character.isDigit(str.charAt(i))) {
+                digits += str.charAt(i);
+                char []arr=letters.toCharArray();
+                Arrays.sort(arr);
+                allSorted+=Arrays.toString(arr);
+                letters="";
+
+            } else {
+
+                letters+=str.charAt(i);
+                char [] arr=digits.toCharArray();
+                Arrays.sort(arr);
+                allSorted+=Arrays.toString(arr);
+                digits="";
             }
         }
-        if (!temp.isEmpty()){
-           temp+=str.charAt(str.length()-1);
-           list.add(temp);
-        }
-//        if (list.size()<str.length()){
-//            list.add(str.charAt(str.length()-1)+"");
-//        }
-        for (String each : list) {
-            result+=sort(each);
-        }
-        return result;
-    }
 
+        char [] letter=letters.toCharArray();
+        Arrays.sort(letter);
+        char [] number=digits.toCharArray();
+        Arrays.sort(number);
+        return (allSorted+Arrays.toString(letter)+Arrays.toString(number)).replace("[","").replace("]","").replace(", ",""); //CD015ACCCG011899
+    }
     public static void main(String[] args) {
         String str="D5C01GCCCA098911MV";
-        System.out.println(splitAndSort(str));
+        System.out.println(sortLettersAndNumbers(str));
     }
 
 }
