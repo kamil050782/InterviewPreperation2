@@ -27,6 +27,7 @@ for numbers which are a divisible by both 3 and 5, print "FINRA" instead of the 
 
     public static void main(String[] args) {
         int num=30;
+
         finRa(num);
     }
 
