@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task3 {
+public class SwapIntegers {
     /*3.int a=5;
         int b=6;
         change and print

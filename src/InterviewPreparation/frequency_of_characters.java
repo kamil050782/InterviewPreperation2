@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task1 {
+public class frequency_of_characters {
   /*  YOU WILL USE 3 WAY TO DO THAT.
             1 WHILE LOOP  2 FOR LOOP AND  3 FOR LOOP by using "FREQUENCY"
     Write a return method that can find the frequency of characters

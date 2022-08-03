@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.Arrays;
 
-public class Task2 {
+public class CheckStringSameLetters {
     /* 2.
  use Array sort
  Write a return method that check if a string is build out of the same letters as another string.
