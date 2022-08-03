@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task8 {
+public class sum_of_digits_in_string {
     /*String s="1a2b3c4f!@#";
  int sum=0;
  String letter="";
