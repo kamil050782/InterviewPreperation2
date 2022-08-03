@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Task5 {
+public class sort_Without_Collections {
       /*5.
 Don't use sort method
 ArrayList<Integer> list =  new ArrayList<>(Arrays.asList(1,10, 50, 2, 4, 50, 10, 3, 2,5, 4));

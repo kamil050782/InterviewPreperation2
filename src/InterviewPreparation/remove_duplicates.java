@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task6 {
+public class remove_duplicates {
     /* String h="AAABBBCCC";
     String result = "";
 

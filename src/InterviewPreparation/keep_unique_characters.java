@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class Task7 {
+public class keep_unique_characters {
     /* String h="AAABBBCCCDEF";
   String result = "";
 
