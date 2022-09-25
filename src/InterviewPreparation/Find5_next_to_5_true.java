@@ -22,7 +22,7 @@ public class Task56 {
     }
 
     public static void main(String[] args) {
-        int[] arr={1, 5, 1, 1, 1};
+        int[] arr={1, 5,5, 1, 1, 1};
         System.out.println(fiveNextFive(arr));
     }
 }

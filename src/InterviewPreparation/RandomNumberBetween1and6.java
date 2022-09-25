@@ -22,7 +22,7 @@ public class Task39 {
     }
 
     public static void main(String[] args) {
-        int num=10;
+        int num=3;
         System.out.println(Arrays.toString(randomNumbers(num)));
     }
 }
