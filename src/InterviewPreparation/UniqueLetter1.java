@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task50MaharramApproach {
+public class UniqueLetter1 {
     /* Remove from same string assign same string
     String h="AABCC";
     Remove

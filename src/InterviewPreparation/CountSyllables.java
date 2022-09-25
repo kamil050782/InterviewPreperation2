@@ -1,8 +1,6 @@
 package InterviewPreparation;
 
-import java.util.Arrays;
-
-public class Task32 {
+public class CountSyllables {
 
     /*Create a function that counts the number of syllables a word has. Each syllable is
     separated with a dash "-" Examples

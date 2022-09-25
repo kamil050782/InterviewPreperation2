@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class Task27 {
+public class FrequencyWithMap {
     /*27 frequency
     String str="AABBDDDC";
     Map<Character, Integer> map = new LinkedHashMap<>();

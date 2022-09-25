@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task26 {
+public class ArmstrongNumber {
     /*26
     Write a method that can check if a number is Armstrong  number
 

@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task42 {
+public class ReverseWithStringBuffer {
     /*42  reverse   USE STRINGBUFFER
     int num = -123;
     -321

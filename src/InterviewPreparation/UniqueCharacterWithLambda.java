@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.*;
 
-public class Task50 {
+public class UniqueCharacterWithLambda {
     /* Remove from same string assign same string
     String h="AABCC";
     Remove

@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task44_2_String {
+public class CompareStrings {
 //     ---WHAT IS OUTPUT----
 //    String S1 = "Nisum";
 //    String S2 = new String(S1);

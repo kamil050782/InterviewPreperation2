@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class Task35WithMaharram {
+public class StringToMap1 {
      /*
     String s = "Seda, 20, Leyla, 30";
 

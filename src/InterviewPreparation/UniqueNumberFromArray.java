@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task57 {
+public class UniqueNumberFromArray {
     /*
     Given an array nums with 7 integers every element is repeated twice
  - except one. Find that element and print it to console.

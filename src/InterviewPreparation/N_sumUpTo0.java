@@ -1,10 +1,8 @@
 package InterviewPreparation;
 
 import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
 
-public class Task30 {
+public class N_sumUpTo0 {
     /*30
     Array -- N unique integers that sum up to 0
     Write a function:

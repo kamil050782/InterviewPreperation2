@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task71 {
+public class Move_a_to_beginOfWord {
     /*
     String a="a2b5c7a9f0dafa2s6a8d5a";
     String str="";

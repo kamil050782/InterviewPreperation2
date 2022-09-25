@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task10 {
+public class BiggestNumber {
 
     /*if ascend true
     int[]a={1,2,3,9,4,5,6,7};

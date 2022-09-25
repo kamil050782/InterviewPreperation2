@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.Arrays;
 
-public class Task76 {
+public class Alphabet {
     /*
     Output
 

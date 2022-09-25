@@ -1,10 +1,9 @@
 package InterviewPreparation;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class Task35 {
+public class StringToMap {
     /*
     String s = "Seda, 20, Leyla, 30";
 

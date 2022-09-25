@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task31 {
+public class CompareArrays {
 
 /*Given 2 arrays of ints, a and b, return true if
     they have the same first element or they have the same last element.

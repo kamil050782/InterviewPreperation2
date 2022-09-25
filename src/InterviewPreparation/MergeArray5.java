@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Task74_VICTORIAMAHARRAM {
+public class MergeArray5 {
     public static int[]mergeArray(int[]arr, ArrayList<Integer>list){
 
 

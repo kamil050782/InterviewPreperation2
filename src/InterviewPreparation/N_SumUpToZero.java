@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.ArrayList;
 
-public class Task30WithJames {
+public class N_SumUpToZero {
     public static ArrayList<Integer> TaskThree(int n) {
 
         if (n < 1) {

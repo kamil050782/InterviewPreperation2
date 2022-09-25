@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task29 {
+public class MinValue {
     /*29
     Map -- Min value  and Max value
     Map<String,Integer>t=new HashMap<>();

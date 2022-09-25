@@ -1,14 +1,11 @@
 package InterviewPreparation;
 
-import com.sun.jdi.Value;
-
-import java.security.Key;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task45 {
+public class FindMostRepetitiveWord {
     /*45
     Find out most repetitive word
     ArrayList<String > fruits=new ArrayList<>(Arrays.asList("alma","alma","alma","alma"

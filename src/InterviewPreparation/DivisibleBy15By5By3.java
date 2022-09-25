@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task18 {
+public class DivisibleBy15By5By3 {
     /*
     String divisibleBy15 ="";
     String divisibleBy5 ="";

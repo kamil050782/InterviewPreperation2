@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Task73 {
+public class CalculateEachNumberArray_ArrayList {
     /*
     //Create 1 array int[] and 1 ArrayList and store result into them and get this result
 //Calculate each number of array: Ex 1+4,2+5,6+3

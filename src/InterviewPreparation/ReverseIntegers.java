@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task23 {
+public class ReverseIntegers {
     /* int num=-1234556;
     -6554321
     */

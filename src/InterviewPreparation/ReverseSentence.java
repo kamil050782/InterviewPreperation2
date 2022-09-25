@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task60 {
+public class ReverseSentence {
     /*
     String sentence = "Today is great day";
     yad taerg si yadoT

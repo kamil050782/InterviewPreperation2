@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.Arrays;
 
-public class Task69 {
+public class MergeMultipleArray {
     /*
     input
     int g[]={1,2,3};

@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task56 {
+public class Find5_next_to_5_true {
 
     /*
     Given an array of ints, print true if the array contains a 5 next

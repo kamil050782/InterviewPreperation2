@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.Arrays;
 
-public class Task66 {
+public class ConcatMergeArrayFirstLastName {
   /*
    String [] k = {"bob","joe"};
         String  [] o = {"jones","smith"};

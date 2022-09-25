@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.ArrayList;
 
-public class Task12 {
+public class MoveZeros {
     /*12  Move zeros
     int[] arr = {1, 0,0,2,0, 3, 49, 6, 5};
     ArrayList<Integer> list = new ArrayList<>();

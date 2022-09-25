@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.Arrays;
 
-public class Task11 {
+public class DescendingTrue {
    /* if disc  true
     int[]a={7,6,5,4};
      */

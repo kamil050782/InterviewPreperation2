@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.Arrays;
 
-public class Task55 {
+public class ConvertToAscendingArray {
     /*
     int[] arr11 = {200, 155, 100, 4, 3, 1, -1, -100};
     convert it ascending array and print like this

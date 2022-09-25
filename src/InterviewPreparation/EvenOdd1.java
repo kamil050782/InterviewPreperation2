@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task14WithMaharram {
+public class EvenOdd1 {
     public static void  evenOdd(String str){
         String even="";
         String odd="";

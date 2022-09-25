@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task14 {
+public class OddEven {
     /*Use String
     int a=5;
 

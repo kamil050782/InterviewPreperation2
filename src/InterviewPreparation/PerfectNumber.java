@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task43 {
+public class PerfectNumber {
     /*43 Perfect number is the sum of numbers that perfectNum divided by sum
     int perfectNum =28;
 eger regeme bolunen regemlerin cemi onun ozune beraberdirse perfect numberdi

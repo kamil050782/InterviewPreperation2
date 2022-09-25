@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task21Factorial {
+public class Factorial {
     public static int factorial(int num){
         int factorial=1;
 

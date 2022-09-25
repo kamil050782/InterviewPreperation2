@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task77 {
+public class ReplaceZero {
     /*
     String str ="OsOdjjOssh";
     replace "o" with "a" only the number of o is 3 or 4

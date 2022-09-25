@@ -1,10 +1,8 @@
 package InterviewPreparation;
 
 import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
 
-public class Task47 {
+public class SplitStringConsecutiveLetter_Numbers {
     /*
     Given alphanumeric String, we need to split the string into substrings of consecutive
     letters or numbers, sort the individual string and append them back together

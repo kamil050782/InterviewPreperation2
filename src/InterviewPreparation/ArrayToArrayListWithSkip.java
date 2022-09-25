@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.ArrayList;
 
-public class Task37 {
+public class ArrayToArrayListWithSkip {
     /* Store Array and ArrayList
 
     int [] arr = {1,4,8,0,3,11,26,2};

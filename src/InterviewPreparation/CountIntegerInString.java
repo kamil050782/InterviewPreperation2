@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task46 {
+public class CountIntegerInString {
     /*
 
     String a="aaa10ss20bb30";

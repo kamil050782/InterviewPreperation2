@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task80 {
+public class MostFrequencyElementArray {
     //80
     // Write a function that receives an array of positive integers with values
     //between and the length or the array. That function returns the number

@@ -4,7 +4,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class Task38 {
+public class SortMap {
    /* SORT MAP
 
     Map<String, Integer> map=new LinkedHashMap<>();

@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task28 {
+public class FindUnique {
     /*28  Find unique
     String str = "accabbcd";
     Map<Character, Integer> unique = new HashMap<>();

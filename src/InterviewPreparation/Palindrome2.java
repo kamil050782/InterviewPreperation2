@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task81 {
+public class Palindrome2 {
 
     /*
     String first="abccba"; < palindrome

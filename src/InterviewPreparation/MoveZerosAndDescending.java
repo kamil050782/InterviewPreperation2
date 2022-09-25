@@ -1,9 +1,8 @@
 package InterviewPreparation;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class Task68 {
+public class MoveZerosAndDescending {
     /*
         input
         int[] num21 = {1,2,4,0,0,5,0};

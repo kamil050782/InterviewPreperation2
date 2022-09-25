@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.Arrays;
 
-public class Task74 {
+public class Pivot_Int_Inside_Array {
     /*
     int[] arr = {5, 7, 3, 9, 1, 0};
     int pivot = 8

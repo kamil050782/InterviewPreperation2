@@ -1,9 +1,8 @@
 package InterviewPreparation;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class Task65 {
+public class MinAndMaxValueStringArray {
     /*
     String[] arr = {"2.5","1.5", "3", "6.5","3.5", "4.5"};  by using sort Array get max and
     min number

@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Task54 {
+public class LongArray {
     /*
     Ask user enter 5 words and declare long word or Array
     String h[]={"hellow", "whyyyyyyyyyy", "byererdddd", "apple" , "notettttt"};

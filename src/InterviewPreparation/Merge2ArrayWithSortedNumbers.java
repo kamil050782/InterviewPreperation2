@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.Arrays;
 
-public class Task70 {
+public class Merge2ArrayWithSortedNumbers {
     /* Store into Array
     int a[]={1,3,5};
     int b[]={2,4,6};

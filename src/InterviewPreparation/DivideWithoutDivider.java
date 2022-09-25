@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task16 {
+public class DivideWithoutDivider {
    /*   USE WHILE LOOP
     int num1=5;
     int num2=2;

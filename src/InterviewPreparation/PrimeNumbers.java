@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task22PrimeNumbers {
+public class PrimeNumbers {
     /*Numbers -- Prime Number. Prime num is a number that divided by itself and 1
       Write a method that can check if a number is prime or not
 

@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task58 {
+public class AverageNumberFromArray {
     /*
     Write a program that can return the average number from an array of
             integers

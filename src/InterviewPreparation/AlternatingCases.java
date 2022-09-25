@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task53 {
+public class AlternatingCases {
     /*
     Write a for loop that will print out the string in alternating cases,
     with the first letter being lowercase

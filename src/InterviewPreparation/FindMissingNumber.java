@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.ArrayList;
 
-public class Task40 {
+public class FindMissingNumber {
     //40  FIND missing number
 
     //int r[]={-1,3,5,6,7,9,13,18,70,80,1400,1401,1405};

@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Task48 {
+public class Find_RemoveDuplicatesArrayList {
     /*
     ArrayList<String> d=new ArrayList<>(Arrays.asList("A","A","A","A","D","C"));
     How do you find if ArrayList contains duplicates or not?

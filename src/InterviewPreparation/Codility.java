@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task20 {
+public class Codility {
    /* Write a function:
     that, given a positive integer N, prints the consecutive numbers from 1 to N,
     each on a separate line. However, any number divisible by 2, 3 or 5 should be

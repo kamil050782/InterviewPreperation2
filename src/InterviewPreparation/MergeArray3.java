@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.Arrays;
 
-public class Task67 {
+public class MergeArray3 {
     /*
     Combine arrays  int arr1[]={1,2,3};  int arr2[]={4,5,6,7};
     int arr3[]={1,2,3,4,5,6,7};

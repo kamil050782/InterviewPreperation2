@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task61 {
+public class CountJavaAndPython {
     /*
     write a program that can return the number of appearances of
 "java" and "python" anywhere in the sentence---"I Like java and javascript not python";

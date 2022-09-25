@@ -1,8 +1,6 @@
 package InterviewPreparation;
 
-import java.util.Arrays;
-
-public class Task34 {
+public class MaxDoubleWithoutSort {
    /* USE double
     Dont use sort get max  4.5
     String[] arr = {"1","2.5", "3", "3.5", "4.5"};

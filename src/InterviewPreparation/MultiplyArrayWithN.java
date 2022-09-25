@@ -2,7 +2,7 @@ package InterviewPreparation;
 
 import java.util.Arrays;
 
-public class Task82 {
+public class MultiplyArrayWithN {
 
     /*
     I need the solution for an array of size N

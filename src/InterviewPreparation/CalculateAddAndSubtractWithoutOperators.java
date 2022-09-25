@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task78 {
+public class CalculateAddAndSubtractWithoutOperators {
     /* USE MAP
     int a=25;
     int b=10;

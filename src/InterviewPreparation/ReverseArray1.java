@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task59 {
+public class ReverseArray1 {
     /*
     String sentence = "Today is great day";
     Array [Today, is, great, day]

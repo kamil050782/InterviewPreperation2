@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task63 {
+public class SwapMultipleArray {
     /*
     {  {9, 8, 7}, {6},  {5,4,3,2,1,0}   };  output should be
 5 4 3 2 1 0 6 9 8 7

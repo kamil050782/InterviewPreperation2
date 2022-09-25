@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class Task52 {
+public class UniqueElementsFromArray {
     /*
     write a method that can print out the unique elements from an int array
 

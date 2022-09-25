@@ -1,9 +1,8 @@
 package InterviewPreparation;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class Task44 {
+public class MergeCombineArrayWithSortNumbers {
     /*44  COMBINE
     int[] a = {1,2};
     int[] b ={3,4};

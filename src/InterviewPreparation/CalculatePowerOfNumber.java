@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task41 {
+public class CalculatePowerOfNumber {
     /*41
     Calculate the power of a number using a while loop
 

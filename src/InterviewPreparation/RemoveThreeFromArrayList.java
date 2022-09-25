@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Task75 {
+public class RemoveThreeFromArrayList {
     /*
     ArrayList<String> gg = new ArrayList<>(Arrays.asList("three,four", "five","seven"));
     print out

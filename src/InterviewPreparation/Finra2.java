@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task49 {
+public class Finra2 {
     /*
  write a program which prints out the numbers from 1 to 30:
             for numbers which are divisible by 3, print "FIN" instead of the number.

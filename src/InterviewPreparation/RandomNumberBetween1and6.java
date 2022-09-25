@@ -3,7 +3,7 @@ package InterviewPreparation;
 import java.util.Arrays;
 import java.util.Random;
 
-public class Task39 {
+public class RandomNumberBetween1and6 {
     /*
     Create 10 random number between 1 and 6
 

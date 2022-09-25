@@ -1,6 +1,6 @@
 package InterviewPreparation;
 
-public class Task72 {
+public class DivideWithoutOperator {
     /*
     don't use divide operator
     int a=11;
