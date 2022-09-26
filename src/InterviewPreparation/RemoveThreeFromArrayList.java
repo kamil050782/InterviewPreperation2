@@ -9,22 +9,19 @@ public class RemoveThreeFromArrayList {
     print out
     four five seven
     */
-    public static String removeThree(ArrayList<String>list){
-        String result="";
-        for (int i = 0; i < list.size(); i++) {
-            if (i==0){
-                String[]arr=list.get(i).split(",");
-                result+=arr[i]+" ";
-            }else {
-                result+=list.get(i)+" ";
-            }
+    public static void main(String[] args) {
+        ArrayList<String> gg = new ArrayList<>(Arrays.asList("three,four", "five", "seven"));
+        printElementsFromArray(gg);
 
-        }
-        return result;
     }
 
-    public static void main(String[] args) {
-        ArrayList<String> gg = new ArrayList<>(Arrays.asList("three,four", "five","seven"));
-        System.out.println(removeThree(gg));
+    public static void printElementsFromArray(ArrayList<String> list) {
+
+        for (String each : list) {
+            for (String eachInner : each.split(","))
+                if (!eachInner.equals("three")) {
+                    System.out.print(eachInner + " ");
+                }
+        }
     }
 }
